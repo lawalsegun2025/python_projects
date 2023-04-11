@@ -24,6 +24,6 @@ This python script takes some arguments that includes, the python file `pdf.py` 
 This program checks to see if your password has ever been compromised before.
 
 ---
-## 4. Hacker News Project
+## 4. Web Scraping (Hacker News Project)
 
 This program uses web scraping to scrap specified news from Hacker News website
