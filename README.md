@@ -22,3 +22,8 @@ This python script takes some arguments that includes, the python file `pdf.py` 
 ## 3. Password Checker
 
 This program checks to see if your password has ever been compromised before.
+
+---
+## 4. Web Scraping
+
+This program uses web scraping to scrap specified news from a website
