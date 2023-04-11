@@ -14,6 +14,6 @@ The script grabs the first two arguments, then it checks if the second argument 
 ---
 ## 2. PDF Merger
 
-<div align="justify>
+<p align="justify>
 This python script takes some arguments that includes, the python file `pdf.py` as the first argument, and the subsequen argumentsa are the pdf files that will be merged
-</div>
+</p>
