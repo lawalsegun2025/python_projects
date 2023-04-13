@@ -15,7 +15,8 @@ def create_custom_hn(links, subline):
         vote = subtext[idx].select('.score')
         if len(vote):
             points = int(vote[0].getText().replace(" points", ""))
-            hn.append({'title': title, 'link': href, 'votes':points})
+            if points > 99:
+                hn.append({'title': title, 'link': href, 'votes':points})
     return hn 
 
 pprint.pprint(create_custom_hn(links, subtext))
